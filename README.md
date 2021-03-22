@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+These Github repositories are mostly mirrors from [this Gitlab instance](https://framagit.org/antoine-cougny).
+
 <!--
 **antoine-cougny/antoine-cougny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
